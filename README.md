@@ -18,10 +18,10 @@ In your `config/app.php` add `'Jose\CepConsult\ServiceProvider'` to the end of t
 
     'providers' => array(
 
-        'Illuminate\Foundation\Providers\ArtisanServiceProvider',
-        'Illuminate\Auth\AuthServiceProvider',
+        Illuminate\Validation\ValidationServiceProvider::class,
+        Illuminate\View\ViewServiceProvider::class,
         ...
-        'Jose\CepConsult\ServiceProvider',
+        Jose\CepConsult\ServiceProvider::class,
 
     ),
 
