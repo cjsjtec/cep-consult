@@ -21,7 +21,7 @@ In your `config/app.php` add `'Jose\CepConsult\ServiceProvider'` to the end of t
         'Illuminate\Foundation\Providers\ArtisanServiceProvider',
         'Illuminate\Auth\AuthServiceProvider',
         ...
-        'JOse\CepConsult\ServiceProvider',
+        'Jose\CepConsult\ServiceProvider',
 
     ),
 
