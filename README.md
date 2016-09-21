@@ -1,4 +1,4 @@
-# CepConsult (Laravel4 Package)
+# CepConsult (Laravel4 Package) DEPRECATED
 
 ----------------------
 This package has the objective to consult the CEP within one or more web APIs that will retrieve the address of the given number.
